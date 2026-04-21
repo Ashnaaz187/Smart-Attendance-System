@@ -102,7 +102,7 @@ streamlit run app.py
 3️⃣ Capture attendance
 4️⃣ View analytics dashboard
 
-📈 Key Highlights
+📈 Key Highlights:
 ⚡ Real-time AI processing
 🔐 Secure & accurate attendance
 📉 Reduces manual effort by 90%
@@ -117,11 +117,11 @@ Initial dataset setup needed
 📩 SMS/WhatsApp alerts
 😷 Mask detection support
 🧠 Model optimization for speed
-👩‍💻 Author
 
-Ashnaaz Ashfak Mujale
+
+👩‍💻 Author : Ashnaaz Ashfak Mujale
 🎓 Information Science & Engineering
-📍 Aspiring Data / Business Analyst
+📍 Aspiring Data Analyst /Machine learning /Full stack developer
 
 ⭐ Show Your Support
 
@@ -132,5 +132,4 @@ If you like this project:
 👉 Share 🚀 with others
 
 📌 License
-
 This project is for educational purposes.
